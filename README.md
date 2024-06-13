@@ -1,2 +1,2 @@
-# MLSC-req
-CTF challenge for MLSC reqruitments
+# Reqruitments
+CTF challenge for reqruitments
